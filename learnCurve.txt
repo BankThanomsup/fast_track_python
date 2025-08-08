@@ -1,0 +1,24 @@
+🛠️ Essential Technologies ที่ต้องเรียน:
+
+Backend Development:
+FastAPI/Flask - Web Framework
+SQLAlchemy - Database ORM
+Pydantic - Data Validation
+JWT - Authentication
+Docker - Containerization
+
+Database:
+PostgreSQL/MySQL - Production Database
+Redis - Caching
+Database Migrations
+
+Testing:
+pytest - Unit Testing
+Factory Pattern - Test Data
+Mocking - Isolated Testing
+
+Production:
+uvicorn - ASGI Server
+nginx - Reverse Proxy
+Logging - Application Monitoring
+Environment Variables
